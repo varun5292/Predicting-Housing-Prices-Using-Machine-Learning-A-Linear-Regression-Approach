@@ -54,7 +54,7 @@ The approach taken for this project follows the typical machine learning pipelin
    - The model's evaluation metrics are displayed, and the results help in understanding the model's performance. The scatter plot gives an intuitive understanding of how well the model predictions align with the actual house prices.
 
 ### 6. **Conclusion**
-   - The project demonstrates how to use machine learning techniques, particularly **Linear Regression**, to predict housing prices based on multiple features. The model achieves reasonable performance, with an R² score of **[your R² score here]**.
+   - The project demonstrates how to use machine learning techniques, particularly **Linear Regression**, to predict housing prices based on multiple features. The model achieves reasonable performance, with an R² score of **0.70255**.
 
 ## Project Structure
 
